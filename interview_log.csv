@@ -1,0 +1,10 @@
+timestamp,role,question,answer,feedback,score,category
+2025-06-09 16:57:14,Data Analyst,Tell me about yourself.,"I am a datascientist since 4 years and skilled in Python, SQL, Tableau, data analysis , data vizualization and data mining.",Technical,,
+2025-06-09 17:22:48,Data Analyst,Tell me about yourself.,"I am a datascientist since 4 years and skilled in Python, SQL, Tableau, data analysis , data vizualization and data mining.",Technical,,
+2025-06-09 17:23:31,Data Analyst,Why do you want to work in data analytics?,because i have data analysis skills,X/10,,
+2025-06-09 17:27:05,Data Analyst,What are the key skills for data analyst?,ki,Technical,,
+2025-06-09 17:51:37,Data Analyst,What is the difference between inner join and left join?,What is the difference between inner join and left join?,4,,
+2025-06-09 18:03:52,Data Analyst,Why do you want to work in data analytics?,because i have skills in data analysis,SCORE = X,,
+2025-06-09 18:09:24,Data Analyst,Why do you want to work in data analytics?,because i have skills of data analysis,"2. Suggestion: Provide one specific improvement. 3. Category: Is this Technical, Communication, or Both? 4. SCORE = X",,
+2025-06-09 18:15:27,ML Engineer,What are the top skills for ML engineer?,What are the top skills for a ML engineer?,"1. Feedback: Give clear, detailed feedback. 2. Suggestion: Provide one specific improvement. 3. Category: Is this Technical, Communication, or Both? 4.",,
+2025-06-09 18:25:38,Data Analyst,Why do you want to work in data analytics?,jbjvjb,4.,N/A,N/A
